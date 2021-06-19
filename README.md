@@ -15,11 +15,11 @@ Spring MVC kullanılarak oluşturulmuş Firma Kayıt Otomasyon Web Sitesidir.
 
 ## Ekran Görünütleri
 * Anasayfa
-* ![logo](/SS/1.png)
+* ![logo](/SS/1.jpg)
 * Firmaların  Listesi 
-* ![logo](/SS/2.png)
+* ![logo](/SS/2.jpg)
 * Firma Kayıt Formu
-* ![logo](/SS/3.png)
+* ![logo](/SS/3.jpg)
 
 ## Hazırlayanlar
 Uğur ILGIN
