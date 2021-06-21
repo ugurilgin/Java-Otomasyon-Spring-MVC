@@ -1,9 +1,9 @@
 # Java-Companies-Registration-Spring-MVC
 ![logo](/SS/logo.png)
-This project about Lokmacı Baba franchise system. This website created using Java Spring MVC.
+* This project about Lokmacı Baba franchise system. This website created using Java Spring MVC.
 * Lokmacı Baba website is a website where franchising applications can be made and companies that have applied before can be viewed. 
 * Doesn't support UTF-8 Character
-* This website runs on localhost using 8081 port
+* This website runs on localhost using 8082 port
 
 ## Used Technologies
 * 1-) JAVA Versiyon 16
